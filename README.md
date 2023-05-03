@@ -4,6 +4,6 @@ I like to set complex, interesting tasks and goals (life is boring without them)
 
 Latest work
 
-Lang and tools
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=CCE4F7)
 
 Follow me
