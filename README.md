@@ -1,4 +1,4 @@
-[Header](https://github.com/Dimonstratos/Dimonstratos/blob/main/assets/logoza.ru%20(1).png)
+![Header](assets/logoza.ru%20(4).png)
 
 About Me
 
