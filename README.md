@@ -1,4 +1,5 @@
-![Header](assets/logoza.png)
+
+ ![Hedaer](assets/logoza.png)
 
 ## About Me
 - Люблю ставить перед собой сложные, интересные задачи и цели (без них скучно жить). Поэтому сейчас продолжаю развиваться и прохожу обучение на образовательной платформе Нетология по программе: "Тестировщик ПО". На сегодняшний день получил знания и сертификаты по следующим дисциплинам: Ручное тестирование веб-приложений, HTML и CSS для тестировщиков, Git - система контроля версий, ... продолжение следует...
@@ -7,6 +8,7 @@
 Latest work
 
 ## Languages and Tools
+
 ![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-11156D?style=for-the-badge&logo=ApacheJMeter&logoColor=F35C23)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-11156D?style=for-the-badge&logo=JavaScript)
 ![JiraSoftware](https://img.shields.io/badge/-JiraSoftware-11156D?style=for-the-badge&logo=JiraSoftware&logoColor=166CDE)
@@ -15,5 +17,3 @@ Latest work
 ![WordPress](https://img.shields.io/badge/-WordPress-11156D?style=for-the-badge&logo=WordPress)
 ![HTML5](https://img.shields.io/badge/-HTML5-11156D?style=for-the-badge&logo=HTML5)
 ![GoogleSheets](https://img.shields.io/badge/-GoogleSheets-11156D?style=for-the-badge&logo=GoogleSheets)
-
-Follow me
