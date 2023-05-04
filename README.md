@@ -1,6 +1,7 @@
 ![Header](assets/logoza.png)
 
-I like to set complex, interesting tasks and goals (life is boring without them). Therefore, now I continue to develop and undergo training on the Netology educational platform under the program: "Software Tester". To date, I have received knowledge and certificates in the following disciplines: Manual testing of web applications, HTML and CSS for testers, Git - version control system, to be continued...
+- Люблю ставить перед собой сложные, интересные задачи и цели (без них скучно жить). Поэтому сейчас продолжаю развиваться и прохожу обучение на образовательной платформе Нетология по программе: "Тестировщик ПО". На сегодняшний день получил знания и сертификаты по следующим дисциплинам: Ручное тестирование веб-приложений, HTML и CSS для тестировщиков, Git - система контроля версий, ...
+- Целеустремленный и легко обучаем. Довожу любое начатое дело до конечного результата. Умею работать в команде.
 
 Latest work
 
