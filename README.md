@@ -14,6 +14,5 @@ Latest work
 ![JiraSoftware](https://img.shields.io/badge/-JiraSoftware-11156D?style=for-the-badge&logo=JiraSoftware&logoColor=166CDE)
 ![Postman](https://img.shields.io/badge/-Postman-11156D?style=for-the-badge&logo=Postman&logoColor=E46130)
 ![Github](https://img.shields.io/badge/-Github-11156D?style=for-the-badge&logo=Github)
-![WordPress](https://img.shields.io/badge/-WordPress-11156D?style=for-the-badge&logo=WordPress)
 ![HTML5](https://img.shields.io/badge/-HTML5-11156D?style=for-the-badge&logo=HTML5)
 ![GoogleSheets](https://img.shields.io/badge/-GoogleSheets-11156D?style=for-the-badge&logo=GoogleSheets)
