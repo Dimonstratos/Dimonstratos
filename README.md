@@ -7,7 +7,7 @@
 
 Latest work
 
-## Languages and Tools
+## Tools
 
 ![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-11156D?style=for-the-badge&logo=ApacheJMeter&logoColor=F35C23)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-11156D?style=for-the-badge&logo=JavaScript)
