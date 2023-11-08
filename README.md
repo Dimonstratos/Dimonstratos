@@ -6,7 +6,7 @@
 - Целеустремленный и легко обучаем. Довожу любое начатое дело до конечного результата. Здесь собраны проекты с которыми я работал в рамках курса "Тестировщик ПО".
 
 ## Latest work
- 
+  - [Функциональное тестирование](https://github.com/Dimonstratos/LatestWork)
 ## Tools
 
 ![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-11156D?style=for-the-badge&logo=ApacheJMeter&logoColor=F35C23)
