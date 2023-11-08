@@ -5,7 +5,7 @@
 - Люблю ставить перед собой сложные, интересные задачи и цели. На сегодняшний день получил знания и сертификаты по следующим дисциплинам: Ручное тестирование веб-приложений, HTML и CSS для тестировщиков, Git - система контроля версий, Java для тестировщиков, Автоматизированное тестирование.
 - Целеустремленный и легко обучаем. Довожу любое начатое дело до конечного результата. Здесь собраны проекты с которыми я работал в рамках курса "Тестировщик ПО".
 ## Education
-   [Certificates](https://drive.google.com/drive/folders/1yacYdX7gRIkheBqnVJkiQc9475yTQeQk?usp=sharing)
+  - [Certificates](https://drive.google.com/drive/folders/1yacYdX7gRIkheBqnVJkiQc9475yTQeQk?usp=sharing)
 ## Latest work
   - [Функциональное тестирование](https://github.com/Dimonstratos/LatestWork)
 ## Tools
