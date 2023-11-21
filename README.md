@@ -10,7 +10,6 @@
   - [Функциональное тестирование](https://github.com/Dimonstratos/LatestWork)
 ## Tools
 
-![ApacheJMeter](https://img.shields.io/badge/-ApacheJMeter-11156D?style=for-the-badge&logo=ApacheJMeter&logoColor=F35C23)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-11156D?style=for-the-badge&logo=JavaScript)
 ![JiraSoftware](https://img.shields.io/badge/-JiraSoftware-11156D?style=for-the-badge&logo=JiraSoftware&logoColor=166CDE)
 ![Postman](https://img.shields.io/badge/-Postman-11156D?style=for-the-badge&logo=Postman&logoColor=E46130)
